@@ -20,7 +20,7 @@ with open(name, 'r') as f:
         i += 1
 
 # write even-numbered lines to output file
-with open("./output55555.txt", 'w') as w:
+with open("./output5.txt", 'w') as w:
     for j in lines:
         w.write(str(j) + '\n')
 
