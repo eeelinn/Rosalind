@@ -19,7 +19,9 @@ Solving problems using ready-to-use software tools abound for bioinformatics ana
 
 
 
-Plan to complete:
+_Plan to complete:_
+
+
 
 ## Algorithms
 A collection of exercises in introductory algorithms to accompany "Algorithms", 
